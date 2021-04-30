@@ -1,0 +1,15 @@
+export const AUTH_START = 'AUTH_START';
+export const AUTH_USER_SUCCESS = 'AUTH_USER_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const AUTH_ADMIN_SUCCESS = 'AUTH_ADMIN_SUCCESS';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const AUTH_LOGOUT_CLEANUP = 'AUTH_LOGOUT_CLEANUP';
+
+export const ADD_BLOG_START = 'ADD_BLOG_START';
+export const ADD_BLOG_SUCCESS = 'ADD_BLOG_SUCCESS';
+export const ADD_BLOG_FAIL = 'ADD_BLOG_FAIL';
+
+export const SET_FETCHED_BLOGS = 'SET_FETCHED_BLOGS';
+export const SET_AUTH_DATA = 'SET_AUTH_DATA';
+
+
